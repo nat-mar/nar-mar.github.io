@@ -8,16 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Natalia S. Martin"
+site_theme               : "default"
+title                    : "Natalia S. Martín"
 title_separator          : "-"
-name                     : &name "Natalia S. Martin"
-description              : &description "Academic website of Natalia Martin, PhD student in Educational Technology at the University of Florida. Research in AI in education, math education, EDM, and learning analytics."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-
+name                     : &name "Natalia S. Martín"
+description              : &description "Academic website of Natalia S. Martín, Ph.D. student in Educational Technology at the University of Florida. Research in AI in Education, Educational Data Mining."
+url                      : "https://nat-mar.github.io" # Si tu repositorio se llama nar-mar.github.io, usa https://nar-mar.github.io
+baseurl                  : ""
+repository               : "nat-mar/nar-mar.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
