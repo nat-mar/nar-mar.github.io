@@ -13,7 +13,7 @@ title                    : "Natalia S. Martín"
 title_separator          : "-"
 name                     : &name "Natalia S. Martín"
 description              : &description "Academic website of Natalia S. Martín, Ph.D. student in Educational Technology at the University of Florida. Research in AI in education, Math education, educational data mining, and learning analytics."
-url                      : "https://nat-mar.github.io" # or https://nar-mar.github.io
+url                      : "https://nat-mar.github.io" 
 baseurl                  : ""
 repository               : "nat-mar/nar-mar.github.io"
 
@@ -29,9 +29,9 @@ author:
   email            : "nataliamartin@viablelab.org"
 
   # Academic Profiles
-  googlescholar    : https://scholar.google.com/citations?user=T7RV1HcAAAAJ&hl=en
-  orcid            : nat-mar.github.io
-  researchgate     : # ResearchGate URL
+  googlescholar    : "https://scholar.google.com/citations?user=T7RV1HcAAAAJ&hl=en"
+  orcid            : "nat-mar.github.io"
+  researchgate     : "https://www.researchgate.net/profile/Natalia-Martin-29"
 
   # Repositories & Social
   github           : "nat-mar"
