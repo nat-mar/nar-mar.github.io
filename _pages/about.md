@@ -23,7 +23,8 @@ I have previously conducted research with the Lastinger Center for Learning and 
 * **Modeling Completion Time in Mathematics Formative Assessments: Content-Based Prediction of Time Variation**  
   Anthony F. Botelho, Zhongtian Huang, **Natalia S. Martín**, Jinnie Shin  
   *Springer Nature Switzerland*, 2026.
-  
-* **More than Translation: The Role of Culture in Online Professional Development Courses**  
+
+### Presentations & Posters
+* **More than Translation: The Role of Culture in Online Professional Development Courses** `[Poster]`  
   **Natalia S. Martín**, N. A. Vest, A. H. Closser, Anthony F. Botelho  
-  *8th International Workshop on Culturally-Aware Tutoring Systems (CATS 2026), co-located with the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*, Seoul, South Korea, June 2026.
+  Poster presented at the 8th International Workshop on Culturally-Aware Tutoring Systems (CATS 2026), co-located with the 27th International Conference on Artificial Intelligence in Education (AIED 2026), Seoul, South Korea, June 2026.
