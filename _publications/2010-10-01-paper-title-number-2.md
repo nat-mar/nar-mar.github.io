@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "More than Translation: The Role of Culture in Online Professional Development Courses"
+collection: Poster Presentation
+type: "Poster Presentation"
+permalink: /talks/2026-06-01-more-than-translation-poster
+venue: "8th International Workshop on Culturally-Aware Tutoring Systems (CATS 2026), AIED 2026"
+date: 2026-06-01
+location: "Seoul, South Korea"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Authors:** **Natalia S. Martín**, N. A. Vest, A. H. Closser, and Anthony F. Botelho
+
+Poster presented at the 8th International Workshop on Culturally-Aware Tutoring Systems (CATS 2026), co-located with the 27th International Conference on Artificial Intelligence in Education (AIED 2026), Seoul, South Korea.
