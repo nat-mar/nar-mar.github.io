@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air"
-title                    : "Natalia S. Martín"
+title                    : "Natalia S. Martin"
 title_separator          : "-"
-name                     : &name "Natalia S. Martín"
-description              : &description "Academic website of Natalia S. Martín, Ph.D. student in Educational Technology at the University of Florida. Research in AI in education, Math education, educational data mining, and learning analytics."
+name                     : &name "Natalia S. Martin"
+description              : &description "Academic website of Natalia S. Martin, Ph.D. student in Educational Technology at the University of Florida. Research in AI in education, Math education, educational data mining, and learning analytics."
 url                      : "https://nataliasmartin.com"
 baseurl                  : ""
 repository               : "nat-mar/nar-mar.github.io"
@@ -20,7 +20,7 @@ repository               : "nat-mar/nar-mar.github.io"
 # Site Author (Sidebar)
 author:
   avatar           : "profile.png" # Place your headshot in /images/profile.png
-  name             : "Natalia S. Martín"
+  name             : "Natalia S. Martin"
   pronouns         : "she/her"
   bio              : "Ph.D. Student at the University of Florida (VIABLE Lab), researching cognitive processes in online Math education, through educational data mining and learning analytics."
   location         : "Gainesville, FL"
