@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "air"
 title                    : "Natalia S. Martín"
 title_separator          : "-"
 name                     : &name "Natalia S. Martín"
