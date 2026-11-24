@@ -1,7 +1,7 @@
 ---
 title: "Not all who avoid help are lost: The relations between help avoidance and performance in a digital learning platform"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2026-not-all-who-avoid-help-are-lost
 excerpt: 'This study uses fine-grained interaction logs from middle schoolers in ASSISTments to show that help avoidance is not a single behavior, distinguishing between productive struggle and unproductive persistence.'
 date: 2026-01-01
